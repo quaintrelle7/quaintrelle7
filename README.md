@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning Javascript
 
-👯 I’m looking to collaborate on Bitcoin
+👯 I’m looking to collaborate on Bitcoin tech
 
 🤔 I’m looking for help with ELK Stack
 
