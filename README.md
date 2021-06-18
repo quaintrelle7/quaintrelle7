@@ -11,7 +11,7 @@
 
 📫 How to reach me: sharayushendre7@gmail.com
 
-😄 Pronouns: she
+😄 Pronoun: she
 
 ⚡ Fun fact: Almost anything powered with electricity needs to be coded. Isn’t it amazing?
 
