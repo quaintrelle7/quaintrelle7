@@ -1,11 +1,11 @@
 ### Hi there 👋
-🔭 I’m currently working on Elastic Search
+🔭 I’m currently working on Blockchain
 
-🌱 I’m currently learning Javascript
+🌱 I’m currently learning Javascript & Solidity
 
-👯 I’m looking to collaborate on Bitcoin tech
+👯 I’m looking to collaborate on Blockchain tech
 
-🤔 I’m looking for help with ELK Stack
+🤔 I’m looking for help with Blockchain
 
 💬 Ask me about Django
 
