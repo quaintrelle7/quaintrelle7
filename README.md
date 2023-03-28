@@ -2,6 +2,8 @@
 
 To know more visit: https://sharayu.netlify.app/
 
+Linktree: https://linktr.ee/quaintrelle7
+
 🔭 I’m currently working on Blockchain
 
 🌱 I’m currently learning Javascript & Solidity
