@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-To know more visit: https://sharayu.netlify.app/
+To know more visit:https://sharayu.vercel.app/
 
 Linktree: https://linktr.ee/quaintrelle7
 
